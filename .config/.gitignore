@@ -4,7 +4,16 @@
 !.gitignore
 
 !/alacritty
+!/alacritty/**/*
+
 !/fastfetch
+!/fastfetch/**/*
+
 !/hypr
+!/hypr/**/*
+
 !/rofi
+!/rofi/**/*
+
 !/waybar
+!/waybar/**/*
