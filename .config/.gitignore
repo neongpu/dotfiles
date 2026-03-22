@@ -1,0 +1,10 @@
+*
+*.log
+
+!.gitignore
+
+!/alacritty
+!/fastfetch
+!/hypr
+!/rofi
+!/waybar
