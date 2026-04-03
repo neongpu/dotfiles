@@ -1,0 +1,12 @@
+# Window Opacity
+background_opacity 0.85
+
+# Window Padding
+window_padding_width 10
+
+# Font Configuration
+font_size 12.0
+font_family      JetBrainsMono Nerd Font Regular
+bold_font        JetBrainsMono Nerd Font Bold
+italic_font      auto
+bold_italic_font auto
